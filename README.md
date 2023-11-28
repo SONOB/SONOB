@@ -44,14 +44,6 @@ I'm Daelim college student
 <img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
 <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
-	
-
-</div>
-
-
-</div>
-<div align=center>
-	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONOB&layout=compact">
 
 
