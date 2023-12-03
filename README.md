@@ -46,11 +46,17 @@ I'm Daelim college student
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
 
 
+</div>
+</div>
+</div>
+
+
+</div>
+<div align=center>
+	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONOB&layout=compact">
 
 
 
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SONOB&show_icons=true&count_private=true)  
-![GitHub metrics](https://metrics.lecoq.io/SONOB)  
+
