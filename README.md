@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFBF&height=180&section=header&text=🦖Welcome🦖&fontSize=120" />
 Hi there 👋, my name is Yong_Jin Lee
-I'm Daelim college student
+I'm Dongguk Univ student
 "I am a student studying artificial intelligence. My main interest lies in NLP(Natural Language Processing). I have uploaded the projects I've created and the things I've studied, so I hope you take a keen interest in them." THX☺️
 
 
 
 - 🔭 I’m currently working on Daelim college 
-- 🌱 I’m currently learning Artificial Intelligence-NLP(Natural Language Processing)
+- 🌱 I’m currently learning Artificial Intelligence-NLP(Natural Language Processing), LLM(Large Language Model)
 - 📫 How to reach me: gr0721@naver.com 
 - 💀 my work partner: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/lee-seong-wook)
 
